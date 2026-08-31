@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/level0/关卡选择.fire",orientation:"",jsList:[],bundleVers:{internal:"d17e2",resources:"4bb49",main:"3aa46"}};

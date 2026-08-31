@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1634,1634
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan_00
+  rotate: false
+  xy: 2, 1226
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+quan_01
+  rotate: false
+  xy: 2, 818
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+quan_02
+  rotate: false
+  xy: 410, 1226
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+quan_03
+  rotate: false
+  xy: 2, 410
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+quan_04
+  rotate: false
+  xy: 410, 818
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+quan_05
+  rotate: false
+  xy: 818, 1226
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+quan_06
+  rotate: false
+  xy: 2, 2
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+quan_07
+  rotate: false
+  xy: 410, 410
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+quan_08
+  rotate: false
+  xy: 818, 818
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+quan_09
+  rotate: false
+  xy: 1226, 1226
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+quan_10
+  rotate: false
+  xy: 410, 2
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+quan_11
+  rotate: false
+  xy: 818, 410
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
+tiao
+  rotate: false
+  xy: 1226, 818
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1

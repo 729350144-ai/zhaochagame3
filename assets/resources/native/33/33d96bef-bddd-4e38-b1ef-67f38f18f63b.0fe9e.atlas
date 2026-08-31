@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 1746,1004
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+quan_00
+  rotate: false
+  xy: 2, 262
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+quan_01
+  rotate: false
+  xy: 410, 670
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+quan_02
+  rotate: false
+  xy: 744, 670
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+quan_03
+  rotate: false
+  xy: 1078, 670
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+quan_04
+  rotate: false
+  xy: 1412, 670
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+quan_05
+  rotate: false
+  xy: 336, 262
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+quan_06
+  rotate: false
+  xy: 670, 336
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+quan_07
+  rotate: false
+  xy: 1004, 336
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+quan_08
+  rotate: false
+  xy: 1338, 336
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+quan_09
+  rotate: false
+  xy: 670, 2
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+quan_10
+  rotate: false
+  xy: 1004, 2
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+quan_11
+  rotate: false
+  xy: 1338, 2
+  size: 332, 332
+  orig: 406, 406
+  offset: 41, 41
+  index: -1
+tiao
+  rotate: false
+  xy: 2, 596
+  size: 406, 406
+  orig: 406, 406
+  offset: 0, 0
+  index: -1
